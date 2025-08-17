@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Williams!
+# 👋 Olá, eu sou o William!
 
 **Profissão:** Analista de Suporte Pleno  
 **Especialidades:** PowerShell, Automação, Javascript/HTML (entusiasta)  
@@ -34,4 +34,4 @@ Minha paixão por T.I. começou cedo:
 [LinkedIn](https://www.linkedin.com/in/williamsantoscruz/)
 ---
 
-**Vamos automatizar o mundo? 😄**
+
